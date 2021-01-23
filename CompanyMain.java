@@ -1,4 +1,5 @@
 package Company;
+// this is the main method
 
 import java.util.Scanner;
 
